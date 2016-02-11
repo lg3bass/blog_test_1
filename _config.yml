@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: VMM.
+title: Bob's Blog Test 1.
 description: "I am writing some awesome intro text. YOU should be berry excited about these prospects.  I'm just amazed that I can have a project page for every project.  ..auto correct and all. "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/blog_test_1" #important: start with /
@@ -51,8 +51,8 @@ tel: +34 8493-4893
     
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
+  - name: Bob White
+    position: Developer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
     social:
@@ -78,15 +78,6 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
 clients:
@@ -96,14 +87,12 @@ clients:
     img: client02.png
   - name: Vimeo
     img: client03.png
-  - name: VimeoPro
-    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Bob White is dedicated to learning Jekyll as a means of organizing himself."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "You have to take time to learn to find the things you love."
+    author: Bob White
+    position: DEVELOPER - Pearson Education
