@@ -5,19 +5,19 @@
     <description>I am writing some awesome intro text. YOU should be berry excited about these prospects.  I&#39;m just amazed that I can have a project page for every project.  ..auto correct and all. </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2016 09:42:23 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 09:42:23 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2016 09:47:35 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2016 09:47:35 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Project: Freaking Awesome Commit</title>
         <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Continuing to test Jekyll.  For this test I’ve created a gh-pages branch in the blog_test_1 directory.  Then I emptyed the branch and added a copy of a jekyll themed blog which I removed the .git and .gitignore file. Now I’m trying to upload the content.&lt;/p&gt;
+&lt;p&gt;Continuing to test Jekyll.  This test I’ve created a gh-pages branch in the blog_test_1 directory.  Then I emptyed the branch and added a copy of a jekyll themed blog which I removed the .git and .gitignore file. Now I’m trying to upload the content.&lt;/p&gt;
 
 &lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
 &lt;p&gt;Let’s see how this works offline before I upload the content.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 10 Feb 2016 04:22:00 -0500</pubDate>
+        <pubDate>Wed, 10 Feb 2016 04:47:00 -0500</pubDate>
         <link>http://yourdomain.com/project/OhYea</link>
         <guid isPermaLink="true">http://yourdomain.com/project/OhYea</guid>
         

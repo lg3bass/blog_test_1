@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Freaking Awesome Commit"
-date:   2016-02-10 09:22:00
+date:   2016-02-10 09:47:00
 author: Bob White
 categories:
 - project
@@ -16,7 +16,7 @@ client: bobwhitemedia.
 website: http://www.bobwhitemedia.com
 ---
 ####YOUR PROJECT NAME
-Continuing to test Jekyll.  For this test I've created a gh-pages branch in the blog_test_1 directory.  Then I emptyed the branch and added a copy of a jekyll themed blog which I removed the .git and .gitignore file. Now I'm trying to upload the content.
+Continuing to test Jekyll.  This test I've created a gh-pages branch in the blog_test_1 directory.  Then I emptyed the branch and added a copy of a jekyll themed blog which I removed the .git and .gitignore file. Now I'm trying to upload the content.
 
 ####Our Proposal
 Let's see how this works offline before I upload the content.
