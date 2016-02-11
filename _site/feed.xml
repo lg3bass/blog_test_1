@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOLID.</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>VMM.</title>
+    <description>I am writing some awesome intro text. YOU should be berry excited about these prospects.  I&#39;m just amazed that I can have a project page for every project.  ..auto correct and all. </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2016 09:31:58 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 09:31:58 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2016 09:42:23 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2016 09:42:23 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
