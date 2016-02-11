@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VMM.</title>
+    <title>Bob&#39;s Blog Test 1.</title>
     <description>I am writing some awesome intro text. YOU should be berry excited about these prospects.  I&#39;m just amazed that I can have a project page for every project.  ..auto correct and all. </description>
     <link>http://yourdomain.com/blog_test_1/</link>
     <atom:link href="http://yourdomain.com/blog_test_1/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2016 09:51:02 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 09:51:02 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2016 10:13:58 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2016 10:13:58 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
