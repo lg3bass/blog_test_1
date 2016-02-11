@@ -4,7 +4,7 @@
 title: VMM.
 description: "I am writing some awesome intro text. YOU should be berry excited about these prospects.  I'm just amazed that I can have a project page for every project.  ..auto correct and all. "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/blog_test_1" #important: start with /
 url: "http://yourdomain.com"
 
 # Build settings

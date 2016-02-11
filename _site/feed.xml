@@ -3,10 +3,10 @@
   <channel>
     <title>VMM.</title>
     <description>I am writing some awesome intro text. YOU should be berry excited about these prospects.  I&#39;m just amazed that I can have a project page for every project.  ..auto correct and all. </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2016 09:47:35 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 09:47:35 -0500</lastBuildDate>
+    <link>http://yourdomain.com/blog_test_1/</link>
+    <atom:link href="http://yourdomain.com/blog_test_1/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 11 Feb 2016 09:51:02 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2016 09:51:02 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Let’s see how this works offline before I upload the content.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Feb 2016 04:47:00 -0500</pubDate>
-        <link>http://yourdomain.com/project/OhYea</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/OhYea</guid>
+        <link>http://yourdomain.com/blog_test_1/project/OhYea</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/OhYea</guid>
         
         
         <category>project</category>
@@ -31,8 +31,8 @@
         <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/question/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/question/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/question/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/question/your-project-name</guid>
         
         
         <category>question</category>
@@ -48,8 +48,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -65,8 +65,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -82,8 +82,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -99,8 +99,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -116,8 +116,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -133,8 +133,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -150,8 +150,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
@@ -167,8 +167,8 @@
 &lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
+        <link>http://yourdomain.com/blog_test_1/project/your-project-name</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog_test_1/project/your-project-name</guid>
         
         
         <category>project</category>
